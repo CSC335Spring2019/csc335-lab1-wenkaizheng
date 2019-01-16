@@ -2,7 +2,7 @@
  * 
  * @author Wenkai Zheng
  * 
- * 
+ *
  */
 public class Lab1 {
 
